@@ -15,3 +15,9 @@ Implementazione pytorch del paper "Quantum Hybrid Diffusion Models for Image Syn
 * Return The metric FID KID for existing experiment 
 * ```python -m tools.fid```
 
+* This code is based on an initial fork of the
+* https://github.com/explainingai-code/DDPM-Pytorch/tree/main
+* And it's based on the paper Quantum Hybrid Diffusion Models for Image Synthesis
+* https://doi.org/10.1007/s13218-024-00858-5
+* https://github.com/NesyaLab/Quantum-Hybrid-Diffusion-Models
+
